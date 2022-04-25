@@ -13,12 +13,13 @@ head{
 
 .navbar{
     padding: 1% 1%;
+    background-color: rgb(240, 238, 236);
 }
 
 .navbar-toggler{
     border-color: rgb(130, 180, 224);
     border-inline-color:rgb(139, 139, 209);
-    background-color: rgba(246, 250, 215, 0.233);
+    background-color: rgba(246, 250, 215, 0.507);
 }
 .nav-link{
     color: rgb(0, 0, 0);
@@ -51,5 +52,5 @@ h1{
 /* Body Edits */
 body{
 /* background-color: rgba(135, 226, 226, 0.849); */
-background-image: url(/queensferry/img/EngineeringCaps.jpg);
+/* background-image: url(/queensferry/img/EngineeringCaps.jpg); */
 }
